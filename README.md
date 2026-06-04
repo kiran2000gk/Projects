@@ -8,7 +8,7 @@ Here are the skillset + few sample of my work in last 4+ years
 4. Design : Figma, Adobe Illustrator, Canva
 5. Payments Gateway integrated : Paytm, Razorpay, PayPal
 6. Others : SEO, GEO, JWT, RBAC, Git, GitHub, VPS / SSH deployment, Google Apps Script, Web Accessibility,
-7. Upskilling : Docker, Typescript, Next.js, 
+7. Upskilling : Docker, Typescript, Next.js
    
 --------Website--------
 1. Wavect.in
